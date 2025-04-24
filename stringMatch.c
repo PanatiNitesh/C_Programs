@@ -23,7 +23,7 @@ int main(){
     return 0;
     
 }
-
+//
 int stringmatch(char s[],char p[],char r[],char f[]){
     int i,j,m,k,t;
     int found = 0;
