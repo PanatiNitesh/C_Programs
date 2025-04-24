@@ -2,7 +2,7 @@
 #define max 100
 
 int stringmatch ( char[],char[],char[],char[] );
-//
+////
 int main(){
     char s[max]={0},p[max]={0},r[max]={0},final[max]={0};
     int found;
