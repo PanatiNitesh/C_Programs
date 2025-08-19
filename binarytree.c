@@ -35,6 +35,7 @@ void inorder(struct Node* root) {
     }
 }
 
+
 // Postorder traversal: Left -> Right -> Root
 void postorder(struct Node* root) {
     if (root != NULL) {
